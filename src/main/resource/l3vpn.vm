@@ -1,0 +1,5 @@
+$l3vpn.ctps.ctp
+<person>
+    <name>$person.name</name>
+    <age>$person.age</age>
+</person>

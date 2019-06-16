@@ -1,0 +1,6 @@
+<interface>
+    <ifName operation="delete">hello,world</ifName>
+    <vrf>
+        <sap>sap1</sap>
+    </vrf>
+</interface>
